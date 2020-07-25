@@ -9,6 +9,7 @@ public class HelloGit {
          System.out.println("更新3");
          System.out.println("在dev分支下的新输出");
          System.out.println("主干添加了");
+         System.out.println("在dev分支添加了");
      }
 
 }
