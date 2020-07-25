@@ -6,6 +6,7 @@ public class HelloGit {
 
          System.out.println("first git");
          System.out.println("更新2");
+         System.out.println("更新3");
      }
 
 }
